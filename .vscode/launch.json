@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "lw02.unguided.Main",
+      "projectName": "dsa-5026251149_b671026"
+    },
+    {
+      "type": "java",
+      "name": "Run Prelab",
+      "request": "launch",
+      "mainClass": "lw02.prelab.Main",
+      "cwd": "${workspaceFolder}/src/lw02/prelab"
+    },
+    {
+      "type": "java",
       "name": "Run Unguided",
       "request": "launch",
       "mainClass": "lw01.unguided.Main",
