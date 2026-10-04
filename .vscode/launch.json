@@ -5,6 +5,13 @@
       "type": "java",
       "name": "Main",
       "request": "launch",
+      "mainClass": "lw03.prelab.Main",
+      "cwd": "${workspaceFolder}/src/lw03/prelab"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
       "mainClass": "lw02.unguided.Main",
       "projectName": "dsa-5026251149_b671026"
     },
