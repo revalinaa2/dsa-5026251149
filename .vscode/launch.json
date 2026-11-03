@@ -5,6 +5,13 @@
       "type": "java",
       "name": "Main",
       "request": "launch",
+      "mainClass": "lw04.prelab.Main",
+      "cwd": "${workspaceFolder}/src/lw04/prelab"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
       "mainClass": "lw03.unguided.Main",
       "cwd": "${workspaceFolder}/src/lw03/unguided"
     },
